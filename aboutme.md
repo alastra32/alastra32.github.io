@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Agustin Lastra
 ---
+I'm Agustin Lastra, a data scientist, with a focus on Finance, Sports and Tech Startups. I've always been driven to numbers and making
+sense of the underlying stories. Moreover, I have experience in developing tools, improving processes and using analytics to inform data
+driven strategic business decisions. Extremely focused results-driven individual, with a commitment to continuous learning, an adaptive
+mindset and collaborative attitude to drive innovation. Expertise includes business strategy and operations, forecasting and data
+analysis, procedures and systems development.
 
-My name is Inigo Montoya. I have the following qualities:
+I look forward to helping decision makers implement machine learning solutions to produce better results.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Based in New York, open to freelancing and working remotely.
